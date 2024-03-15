@@ -1,0 +1,40 @@
+* {
+  font-family: "Karla", sans-serif;
+}
+.footer-container {
+  background-color: #495e57;
+  color: #fff;
+}
+.section-heading {
+  font-weight: 600;
+  font-size: 20px;
+}
+.footer-logo{
+  width: 100px;
+  height: 120px;
+}
+.footer-link {
+  font-size: 17px;
+  transition: all ease 0.3s;
+  text-decoration: none;
+  color: #fff;
+}
+.footer-link:active,
+.footer-link:hover,
+.footer-link:focus {
+  color: #f4ce14;
+  text-decoration: none;
+
+}
+.nav-text {
+  font-size: 16px;
+  color: #fff;
+}
+.social-link {
+  font-weight: 600;
+  font-size: 30px;
+  color: #fff;
+}
+.social-link:hover {
+  color: #f4ce14;
+}

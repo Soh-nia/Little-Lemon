@@ -1,0 +1,52 @@
+.main-parent {
+  position: relative;
+}
+.about1 {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 300px;
+  height: 300px;
+  transition: 0.2s all linear;
+}
+.about2 {
+  position: absolute;
+  top: -50px;
+  left: 200px;
+  width: 300px;
+  height: 300px;
+  transition: 0.2s all linear;
+}
+
+.about1:hover, .about2:hover {
+transform: scale(1.05);
+  }
+  
+
+.chi-h1{
+    font-family: "EB Garamond", serif;
+  color: #000;
+  font-size: 50px;
+  font-weight: 600;
+}
+
+.chi-h4{
+    font-family: "Markazi Text", serif;
+  color: #000;
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.chi-p{
+    font-family: "Karla", sans-serif;
+    color: #333333;
+  font-size: 17px;
+  font-weight: 400;
+}
+
+.owners{
+    font-family: "Quintessential", serif;
+  color: #f4ce14;
+  font-size: 20px;
+  font-weight: 700;
+}

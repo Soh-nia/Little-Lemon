@@ -1,0 +1,56 @@
+.hero {
+  background-color: #495e57;
+  color: #000;
+}
+
+.hero-img {
+  width: 350px;
+  height: 325px;
+  transition: 0.2s all linear;
+}
+
+.hero-img:hover {
+  transform: translateY(-15px);
+}
+
+h1 {
+  font-family: "Roboto", sans-serif;
+  color: #f4ce14;
+  font-size: 50px;
+  font-weight: 700;
+}
+
+h4 {
+  font-family: "Markazi Text", serif;
+  color: #fff;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.hero-p{
+  font-family: "Karla", sans-serif;
+  color: #fff;
+  font-size: 18px;
+}
+
+span {
+  font-family: "Quintessential", serif;
+  color: #f4ce14;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.primary-btn {
+  background-color: #f4ce14;
+  color: #000;
+  /* font-family: "Roboto", sans-serif; */
+  font-family: "Quintessential", serif;
+  font-size: 18px;
+  transition: 0.2s all linear;
+}
+
+.primary-btn:hover {
+  background-color: #000;
+  color: #fff;
+  transform: translateY(-5px);
+}

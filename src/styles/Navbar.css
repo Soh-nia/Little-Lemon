@@ -1,0 +1,25 @@
+.nav-toggler,
+.nav-toggler:focus,
+.nav-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none;
+    border: none;
+}
+
+.navbar-toggler-icon{
+    color: #495e57;
+}
+.nav-link{
+    font-family: 'Karla', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #000000;
+}
+.nav-link:active,
+.nav-link:hover,
+.nav-link:focus
+{
+    color: #f4ce14;
+}

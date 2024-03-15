@@ -1,0 +1,62 @@
+.special-heading {
+  font-family: "EB Garamond", serif;
+  color: #000;
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.special-heading span {
+  font-family: "Quintessential", serif;
+  color: #f4ce14;
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.card-h5 {
+  font-family: "EB Garamond", serif;
+  color: #000;
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.card-p1 {
+  font-family: "Karla", sans-serif;
+  color: #ee9972;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.card-p2 {
+  font-family: "Karla", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.delivery-link {
+  text-decoration: none;
+  color: #333333;
+  font-family: "Karla", sans-serif;
+}
+
+.delivery {
+  background-color: #f4ce14;
+}
+
+.delivery:hover {
+  background-color: #000;
+  color: #fff;
+}
+
+.delivery-link:hover {
+  text-decoration: none;
+  color: #fff;
+}
+
+.card-p3 {
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.delivery-icon {
+  font-size: 24px;
+}

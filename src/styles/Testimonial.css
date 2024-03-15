@@ -1,0 +1,35 @@
+.t-h2 {
+  font-family: "EB Garamond", serif;
+  color: #000;
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.img-container {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  object-position: center;
+}
+
+.customer {
+  width: 150px;
+  height: 150px;
+  transition: 0.2s all linear;
+}
+
+.customer:hover {
+  transform: translateY(-5px);
+}
+
+.t-card-h5 {
+  font-family: "Markazi Text", serif;
+  color: #000;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.rating{
+    font-size: 18px;
+    color: #f4ce14;
+}

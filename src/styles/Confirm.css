@@ -1,0 +1,26 @@
+h1 {
+  font-family: "Roboto", sans-serif;
+  color: #495e57;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+h2 {
+    font-family: "Karla", sans-serif;
+    color: #f4ce14;
+    font-size: 25px;
+    font-weight: 600;
+  }
+
+h3 {
+  font-family: "Markazi Text", serif;
+  color: #333333;
+  font-size: 16px;
+}
+
+p {
+  font-family: "Karla", sans-serif;
+  color: #000;
+  font-size: 18px;
+  font-weight: 500;
+}
